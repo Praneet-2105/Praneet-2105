@@ -1,94 +1,100 @@
-# Hi, I'm L. Praneet 👋
+# 👋 Hey, I'm L. Praneet
 
-### 🐍 Python Developer | Django | Aspiring Software Engineer
+### 🐍 Python Developer • 🤖 AI/ML Enthusiast • 🌐 Django • 💡 Problem Solver
 
-I'm a **Computer Science Engineering graduate** interested in software development, particularly **Python and backend development**.
+> **Building. Learning. Experimenting. Improving. 🚀**
 
-I enjoy building projects, solving programming problems, and continuously improving my development skills.
+I'm a **Computer Science Engineering graduate** passionate about turning ideas into practical software solutions.
 
----
-
-## 👨‍💻 About Me
-
-* 🎓 Computer Science Engineering Graduate
-* 🐍 Working with **Python**
-* 🌐 Learning **Django** and web development
-* 🗄️ Learning and working with **SQL**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🔨 Building projects to improve my practical development skills
-* 📚 Currently strengthening my programming fundamentals
-* 💼 Looking for **Software Developer / Python Developer / Backend Developer** opportunities
+My primary focus is **Python and Django**, while I'm also exploring the world of **Artificial Intelligence and Machine Learning**. I enjoy solving problems, building projects, and learning new technologies that can help create smarter and more useful applications.
 
 ---
 
-## 🛠️ Skills
+## 🚀 What I'm Interested In
 
-### Programming
-
-* Python
-* SQL
-* HTML
-* CSS
-
-### Framework
-
-* Django
-
-### Database
-
-* MySQL
-* SQLite
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Linux
+🐍 **Python Development**
+🌐 **Backend & Web Development**
+🤖 **Artificial Intelligence & Machine Learning**
+🧠 **Data Structures & Algorithms**
+🗄️ **Databases & SQL**
+💡 **Problem Solving**
+🔬 **Exploring New Technologies**
 
 ---
 
-## 🚀 Projects
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+`Python` `SQL` `HTML` `CSS`
+
+### 🌐 Frameworks & Libraries
+
+`Django` `TensorFlow`
+
+### 🤖 AI / ML
+
+`Machine Learning` `Deep Learning` `CNN`
+
+### 🔧 Tools
+
+`Git` `GitHub` `VS Code` `Linux`
+
+---
+
+## 🔥 Featured Projects
 
 ### 🩸 WBC Image Classification
 
-A machine-learning project for classifying White Blood Cell images into different categories.
+> **AI/ML • Deep Learning • Computer Vision**
 
-**Technologies:** Python, TensorFlow, Django
+A CNN-based machine-learning project for classifying White Blood Cell images into different cell categories.
+
+**Built with:** `Python` • `TensorFlow` • `Django`
 
 ---
 
+### 🌐 Django Projects
 
-### 🌐 Django Web Projects
+> **Python • Django • Web Development**
 
-Developing web applications using Django while improving my Python and web-development skills.
+Building practical web applications with Django to strengthen my Python, database, and backend-development skills.
 
-**Technologies:** Python, Django, HTML, CSS, SQL
+**Technologies:** `Python` • `Django` • `HTML` • `CSS` • `SQL`
 
 ---
 
 ## 📚 Currently Learning
 
-* Python Programming
-* Django
-* SQL
-* Data Structures & Algorithms
-* Web Development Fundamentals
-* Software Development Practices
+```text
+🐍 Python              ████████████████████
+🌐 Django              ██████████████████
+🗄️ SQL & Databases     ███████████████
+🧠 DSA                 ██████████████
+🤖 AI / ML             ████████████
+💻 Web Development     ██████████
+```
 
 ---
 
-## 🎯 Career Goal
+## 🎯 My Goal
 
-My goal is to become a **Software Engineer**, starting with a role where I can apply my Python and Django skills, work on real-world projects, learn from experienced developers, and continuously grow as a software engineer.
+> **To become a skilled Software Developer who builds reliable applications, solves real-world problems, and explores intelligent AI-powered solutions.**
 
----
+I'm looking for opportunities as a **Software Developer, Python Developer, or Backend Developer**, where I can contribute to real-world projects, apply my programming skills, learn from experienced engineers, and continuously grow as a developer.
 
-## 📫 Connect With Me
-
-* 💼 LinkedIn: www.linkedin.com/in/lavidipraneet
-* 📧 Email: lavidipraneet@gmail.com
+My long-term goal is to become a **versatile developer** who can combine software development with **AI/ML** to build useful and innovative solutions. 🚀
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🤝 Let's Connect
+
+💼 **LinkedIn:** www.linkedin.com/in/lavidipraneet
+
+📧 **Email:** lavidipraneet@gmail.com
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+**Feel free to explore my repositories and follow my journey as I learn, build, and grow. 🚀**
