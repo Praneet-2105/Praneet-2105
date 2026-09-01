@@ -58,13 +58,6 @@ A machine-learning project for classifying White Blood Cell images into differen
 
 ---
 
-### 🤖 AI Job Scam Detector
-
-A project concept designed to analyze job descriptions, emails, company information, and URLs to identify potential job scams.
-
-**Technologies:** Python, AI/ML
-
----
 
 ### 🌐 Django Web Projects
 
@@ -93,9 +86,8 @@ My goal is to become a **Software Engineer**, starting with a role where I can a
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: Add your LinkedIn URL
-* 📧 Email: Add your professional email
-* 🌐 Portfolio: Add your portfolio URL
+* 💼 LinkedIn: www.linkedin.com/in/lavidipraneet
+* 📧 Email: lavidipraneet@gmail.com
 
 ---
 
